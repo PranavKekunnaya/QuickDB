@@ -115,4 +115,3 @@ No UPDATE/DELETE, SQL joins, range predicates, NULL, uniqueness constraints,
 concurrent readers, multi-statement transactions, network server, or Windows
 support. Input commands are limited to 1 MiB and cannot contain embedded newlines.
 
-See [PROJECT_GUIDE.md](PROJECT_GUIDE.md) for architecture and interview answers.
